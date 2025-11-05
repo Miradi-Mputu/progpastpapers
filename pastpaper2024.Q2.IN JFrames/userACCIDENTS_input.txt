@@ -1,0 +1,5 @@
+ACCIDENT REPORT
+**********************************
+VEHICLE TYPE: bmw
+CITY: cape town
+ ACCIDENT TOTAL: 12
